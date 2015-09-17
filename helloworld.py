@@ -1,1 +1,1 @@
-printa"asacedddcccaadddaaHsaaaasaaaaaaaaaaaassaaaasasdasdasdello=, World!f0r test!" 
+print "hello world" 
