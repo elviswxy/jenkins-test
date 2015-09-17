@@ -1,1 +1,1 @@
-print "cedddcccaadddaaHsaaaasaaaaaaaaaaaassaaaasasdasdasdello=, World!f0r test!" 
+printa"asacedddcccaadddaaHsaaaasaaaaaaaaaaaassaaaasasdasdasdello=, World!f0r test!" 
