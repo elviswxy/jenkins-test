@@ -75,9 +75,7 @@ In Github repo you also need to change the setting for the project which used to
 ![pic2](https://github.com/elviswxy/jenkins-test/blob/master/pics/snapshot2.png)
 
 3. After these cofig, you need to select the individual envent for the project.
-
 ![pic3](https://github.com/elviswxy/jenkins-test/blob/master/pics/snapshot4.png)
-
 4. When you finished the configuration, the system will send a test request to your jenkins server.
 
 ![pic4](https://github.com/elviswxy/jenkins-test/blob/master/pics/snapshot3.png)
