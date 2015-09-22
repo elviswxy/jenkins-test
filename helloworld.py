@@ -1,1 +1,1 @@
-print "hello world for own dic" 
+print "hello world for own dic, first fail and test again." 
